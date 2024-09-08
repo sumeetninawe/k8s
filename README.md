@@ -4,6 +4,8 @@ description: All the compilations related to Kubernetes are drafted here.
 
 # Kubernetes (v1.31)
 
+[Home](https://letsdote.ch)
+
 ## Welcome
 
 I am glad you chose to visit this page. This is a work-in-progress (WIP) book on Kubernetes.
