@@ -20,7 +20,7 @@ Again, please know that this is a WIP book, and the content on many of these pag
 
 Kubernetes version: v1.31
 
-Topics completed/Topics identified: 0/0
+Topics completed/Topics identified: 0/23
 
 Newsletter for updates: [https://news.letsdote.ch](https://news.letsdote.ch)
 
