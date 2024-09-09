@@ -5,7 +5,8 @@
 ## KCNA
 
 * [Introduction page](kcna/introduction-page.md)
-* [Kubernetes Resources](kcna/kubernetes-resources.md)
+* [Kubernetes Resources](kcna/kubernetes-resources/README.md)
+  * [Page 5](kcna/kubernetes-resources/page-5.md)
 * [Kubernetes Architecture](kcna/kubernetes-architecture.md)
 * [Kubernetes API](kcna/kubernetes-api.md)
 * [Containers](kcna/containers.md)
